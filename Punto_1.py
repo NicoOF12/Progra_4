@@ -1,5 +1,3 @@
-#Función
-
 class Punto():
 
     def __init__(self, coord_x, coord_y):
